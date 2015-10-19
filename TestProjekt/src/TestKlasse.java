@@ -1,4 +1,5 @@
 
+
 public class TestKlasse {
 	//Interessant tekst!
 	//Mere interessant tekst!
@@ -8,4 +9,8 @@ public class TestKlasse {
     // Folk der ikke bruger git gennem terminalen er tosser! :O
     // Christian er så flabet! Han burde skamme sig! :P
     //Herre meget online rettelse
+    // Christian er mega flabet!!! :O
 }
+
+
+
