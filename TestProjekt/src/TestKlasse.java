@@ -11,6 +11,7 @@ public class TestKlasse {
     //Herre meget online rettelse
     // Christian er mega flabet!!! :O
     // Christian er stadig flabet....
+    // Christian er dejlig <3 :D
 }
 
 
