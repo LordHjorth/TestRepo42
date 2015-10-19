@@ -6,6 +6,6 @@ public class TestKlasse {
     // Jeg er fucking awesome
     // Jeg elsker bare terminal! :D
     // Folk der ikke bruger git gennem terminalen er tosser! :O
-
     // Christian er så flabet! Han burde skamme sig! :P
+    //Herre meget online rettelse
 }
