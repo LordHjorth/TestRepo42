@@ -4,4 +4,5 @@ public class TestKlasse {
 	//Mere interessant tekst!
 	//Anden spændende tekst!
     // Jeg er fucking awesome
+    // Jeg elsker bare terminal! :D
 }
