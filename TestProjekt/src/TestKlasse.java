@@ -10,6 +10,7 @@ public class TestKlasse {
     // Christian er så flabet! Han burde skamme sig! :P
     //Herre meget online rettelse
     // Christian er mega flabet!!! :O
+    // Christian er stadig flabet....
 }
 
 
