@@ -1,3 +1,3 @@
 # TestRepo42
 
-Dis is some crazy Scheiße !
+Test Repository for 1. semester SW,
